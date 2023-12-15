@@ -1,5 +1,6 @@
 to run Tic Tac Toe application:
 
-download the app
-run npm in folder on local server
-start index.html
+run node
+run npm i
+run npm start
+open local host address through browser
